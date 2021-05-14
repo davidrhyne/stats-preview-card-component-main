@@ -69,10 +69,10 @@ h1, h3, p {
 
 .img-mobile {
     height: 240px;
-    background-repeat: no-repeat;
-    background-size: auto 240px;
     border-radius: 8px 8px 0 0;
     background-image: url('../images/image-header-mobile.jpg');
+
+    background-size: cover;
     background-color: var(--accent-color);
     background-blend-mode:multiply;
     display: block;
