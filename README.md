@@ -35,7 +35,7 @@ Users should be able to:
 
 ## My process
 
-I started by visualizing the sections each of the pages to determine how the markup should be coded.  From there, I wrote the markup and started the CSS with the mobile-first workflow. I finished by adding the media query to add the CSS for the desktop view.
+I started by visualizing the segments the pages to determine how the markup should be coded.  From there, I wrote the markup and started the CSS with the mobile-first workflow. I finished by adding the media query to add the CSS for the desktop view.
 
 ### Built with
 
