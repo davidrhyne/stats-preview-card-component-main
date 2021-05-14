@@ -99,16 +99,38 @@ h1, h3, p {
     padding: .2em;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 600px) {
+
+    .card {
+        min-height: 500px;
+    }
+
+    .card-title {
+        font-size: 2rem;
+    }
+
+    .card-content {
+        padding: 0 8em;
+    }
+
+    .card-highlights {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly   ;
+    }
+}
+
+@media (min-width: 800px) {
     .card {
         flex-direction: row;
         min-height: 446px;
+
     }
 
     .card-content {      
         text-align: left;
         margin: 1.2em 1.9em;
-        padding-left: 2.5em;
+        padding: 0 0 0 2.5em;
     }
 
     .card-title {
@@ -118,6 +140,7 @@ h1, h3, p {
 
     .card-body {
         width: 80%;
+        margin-left: 0;
         margin-bottom: 5em;
     }
 
@@ -141,9 +164,13 @@ h1, h3, p {
         background-size: cover;
         background-color: var(--accent-color);
         background-blend-mode:multiply;
+        background-position: right;
     }
 
     .img-mobile {
         display: none;
     }
+
+
 }
+
