@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/davidrhyne/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://davidrhyne.github.io/stats-preview-card-component-main/)
+- Solution URL: [Solution](https://github.com/davidrhyne/stats-preview-card-component-main)
+- Live Site URL: [live on Github pages](https://davidrhyne.github.io/stats-preview-card-component-main/)
 
 ## My process
 
@@ -60,5 +60,5 @@ I am really looking forward to the feedback. I would like to know what I should 
 ## Author
 
 - Website - [David Rhyne](TBD)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@davidrhyne](https://www.frontendmentor.io/profile/davidrhyne)
 - Twitter - [@DavidRhyne16](https://twitter.com/DavidRhyne16)
