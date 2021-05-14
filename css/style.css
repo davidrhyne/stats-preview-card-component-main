@@ -135,7 +135,7 @@ h1, h3, p {
     .img-desktop {
         display: block;
         background-image: url('../images/image-header-desktop.jpg');
-        height: 446px;
+        height: auto;
         width: 100%;
         background-repeat: no-repeat;
         background-size: cover;
